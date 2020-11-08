@@ -1,4 +1,15 @@
 .youtube{height: 80px;
     margin-top: 450px;
 }
-.subscribe{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.subscribe{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: crimson;
+}
+.heading{background-color: cornflowerblue;
+    size: 90px;
+}
+.instagram{height: 80px;
+
+}
+.heading{style="border:2px solid Tomato;
+
+}   
